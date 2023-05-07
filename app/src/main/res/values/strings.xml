@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MarcioYukio_RM86662</string>
+    <string name="name">Pikachu</string>
+    <string name="descriptionTitle">Description:</string>
+    <string name="descriptionText">When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.</string>
+    <string name="skillTitle">Skills:</string>
+    <string name="skillText"> > Add skill with button</string>
+    <string name="editSkillButton">+ EDIT SKILLS</string>
+    <string name="changeThemeButton">CHANGE THEME</string>
+    <string name="skillsList">Skills List</string>
+    <string name="skill1Text">Thunderbolt</string>
+    <string name="skill2Text">Quick Attack</string>
+    <string name="skill3Text">Wild Charge</string>
+    <string name="skill4Text">Thunder Shock</string>
+    <string name="updateSkillsButton">UPDATE SKILLS</string>
+</resources>
+

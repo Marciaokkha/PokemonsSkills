@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="descriptionTitle">Descrição:</string>
+    <string name="descriptionText">Quando está com raiva, descarrega imediatamente a energia armazenada nas bolsas de suas bochechas.</string>
+    <string name="skillTitle">Habilidades:</string>
+    <string name="skillText"> > Adicionar habilidade com o botão</string>
+    <string name="editSkillButton">+ EDITAR HABILIDADES</string>
+    <string name="changeThemeButton">MUDAR TEMA</string>
+    <string name="skillsList">Lista de Habilidades</string>
+    <string name="skill1Text">Choque do Trovão</string>
+    <string name="skill2Text">Ataque Rápido</string>
+    <string name="skill3Text">Ataque Selvagem</string>
+    <string name="skill4Text">Trovoada de Choques</string>
+    <string name="updateSkillsButton">ATUALIZAR HABILIDADES</string>
+</resources>
